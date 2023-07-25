@@ -5,7 +5,7 @@ edition = "2021"
 authors = [ "Nikola Milosavljevic <nikola.milosavljevic@dfinity.org>"]
 description = "A parser for the systemd journal format"
 readme = "README.md"
-repository = "https://github.com/nikola-milosa/journald-parser"
+repository = "https://github.com/dfinity/journald-parser"
 keywords = ["journald", "systemd", "journal", "parser"]
 license = "MIT"
 
