@@ -2,7 +2,11 @@
 name = "journald-parser"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = [ "Nikola Milosavljevic <nikola.milosavljevic@dfinity.org>"]
+description = "A parser for the systemd journal format"
+readme = "README.md"
+repository = "https://github.com/nikola-milosa/journald-parser"
+keywords = ["journald", "systemd", "journal", "parser"]
+license = "MIT"
 
 [dependencies]
