@@ -1,10 +1,10 @@
 # Journald-parser
 
 ## Table of contents
-* [Introduction](##Introduction)
-* [Features](##Features)
-* [Installation](##Installation)
-* [Usage](##Usage)
+* [Introduction](#Introduction)
+* [Features](#Features)
+* [Installation](#Installation)
+* [Usage](#Usage)
 
 ## Introduction
 Welcome to the Rust Parser for systemd-journal-gatewayd Logs project! This is an open-source Rust library designed to parse and extract relevant information from logs gathered via systemd-journal-gatewayd. The parser aims to provide developers and system administrators an efficient way to handle and analyze logs from the gatewayd service. The systemd logs protocol can be found [here](https://systemd.io/JOURNAL_EXPORT_FORMATS/)
