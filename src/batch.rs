@@ -1,6 +1,6 @@
 use crate::entry::Entry;
 
-#[derive(PartialEq, Debug)]
+#[derive(PartialEq, Debug, Default)]
 pub struct Batch {
     pub entries: Vec<Entry>,
 }

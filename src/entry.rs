@@ -1,6 +1,6 @@
 use crate::line::Line;
 
-#[derive(PartialEq, Debug)]
+#[derive(PartialEq, Debug, Default)]
 pub struct Entry {
     pub lines: Vec<Line>,
 }

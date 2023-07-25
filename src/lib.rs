@@ -1,7 +1,7 @@
 #![allow(dead_code)]
 #![deny(warnings)]
 
-mod batch;
-mod entry;
-mod line;
-mod parser;
+pub mod batch;
+pub mod entry;
+pub mod line;
+pub mod parser;
