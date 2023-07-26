@@ -72,7 +72,7 @@ We highly value the quality of our codebase, and tests play a crucial role in en
 cargo test
 ```
 
-Make sure all the tests pass successfully.
+Make sure all tests pass successfully.
 
 ## Submitting Pull Requests
 
